@@ -22,7 +22,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-Movie Catalog is a React-Redux application where you can meet socialize with your friends.
+Basic Ecommerce CRUD for jubelio FE-TEST
 
 ### Built With
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
@@ -51,7 +51,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
    ```sh
-   git clone https://gitlab.com/odrassam/react-space-chatting
+   git clone https://github.com/SamOdras/jubelio-test-fe
    ```
 2. Install NPM packages
    ```sh
