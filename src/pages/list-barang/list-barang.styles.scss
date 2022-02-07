@@ -1,0 +1,10 @@
+.card-wrapper{
+  transition: all .2s;
+  z-index: 10;
+  cursor: pointer;
+  &:hover{
+    transform: translateY(-5px);
+    box-shadow: 0 5px 10px 5px rgba(0,0,0,.2);
+    z-index: 9999;
+  }
+}
